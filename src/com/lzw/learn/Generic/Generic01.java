@@ -1,14 +1,14 @@
 package com.lzw.learn.Generic;
 
 /**
- * ¶à·ºÐÍµÄÊ¹ÓÃ
+ * å¤šæ³›åž‹çš„ä½¿ç”¨
  * 
- * @author Ö¾Î°
+ * @author å¿—ä¼Ÿlzw
  *
- * @param <T>·ºÐÍÒ»
- *            integerÀàÐÍ
- * @param <K>·ºÐÍ¶þ
- *            String ÀàÐÍ
+ * @param <T>æ³›åž‹ä¸€
+ *            integerç±»åž‹
+ * @param <K>æ³›åž‹äºŒ
+ *            String ç±»åž‹
  */
 class GenericDemo<T, K> {
 	private T name;
@@ -39,7 +39,7 @@ class GenericDemo<T, K> {
 public class Generic01 {
 
 	public static void main(String[] args) {
-		// ÊµÀý»¯GenericDemoÀà
+		// å®žä¾‹åŒ–GenericDemoç±»
 		GenericDemo<String, Integer> g = new GenericDemo<String, Integer>();
 		g.setAge(10);
 		g.setName("lizhiei");
