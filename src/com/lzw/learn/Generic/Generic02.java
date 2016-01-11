@@ -20,7 +20,7 @@ class Info<T> {
 public class Generic02 {
 
 	public static void main(String[] args) {
-		// ÊµÀı»¯
+		//  instantiation
 		Info<String> i = new Info<String>();
 		i.setKey("this is key");
 		show(i);
@@ -28,7 +28,7 @@ public class Generic02 {
 	}
 
 	/**
-	 * Í¨Åä·ûµÄÊ¹ÓÃ ¼´ Ö¸¶¨²ÎÊıÎªInfoÀà µ«ÊÇ²»ÄÜÈ·¶¨¾ßÌåµÄÀàĞÍ ¿ÉÒÔÓÃ£¿ ´úÌæ¼´£º Info<?>
+	 * é€šé…ç¬¦çš„ä½¿ç”¨ å³ æŒ‡å®šå‚æ•°ä¸ºInfoç±» ä½†æ˜¯ä¸èƒ½ç¡®å®šå…·ä½“çš„ç±»å‹ å¯ä»¥ç”¨ï¼Ÿ ä»£æ›¿å³ï¼š Info<?>
 	 * 
 	 * @param i
 	 */
