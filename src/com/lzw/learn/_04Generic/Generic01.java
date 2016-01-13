@@ -1,13 +1,13 @@
-package com.lzw.learn.Generic;
+package com.lzw.learn._04Generic;
 
 /**
  * 多泛型的使用
  * 
  * @author 志伟lzw
  *
- * @param <T>泛型一
+ * @param <T>泛型�?
  *            integer类型
- * @param <K>泛型二
+ * @param <K>泛型�?
  *            String 类型
  */
 class GenericDemo<T, K> {
@@ -39,7 +39,7 @@ class GenericDemo<T, K> {
 public class Generic01 {
 
 	public static void main(String[] args) {
-		// 实例化GenericDemo类
+		// 实例化GenericDemo�?
 		GenericDemo<String, Integer> g = new GenericDemo<String, Integer>();
 		g.setAge(10);
 		g.setName("lizhiei");

@@ -1,4 +1,4 @@
-package com.lzw.learn.Generic;
+package com.lzw.learn._04Generic;
 /**
  * 定义一个泛型接口
  * @author 志伟

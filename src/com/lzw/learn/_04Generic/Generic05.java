@@ -1,4 +1,4 @@
-package com.lzw.learn.Generic;
+package com.lzw.learn._04Generic;
 
 public class Generic05 {
 

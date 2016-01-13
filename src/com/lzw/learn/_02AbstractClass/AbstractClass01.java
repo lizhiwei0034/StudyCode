@@ -1,4 +1,4 @@
-package com.lzw.learn.AbstractClass;
+package com.lzw.learn._02AbstractClass;
 
 
 /**
