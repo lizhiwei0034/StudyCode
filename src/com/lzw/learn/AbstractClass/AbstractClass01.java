@@ -1,6 +1,5 @@
 package com.lzw.learn.AbstractClass;
 
-import javax.xml.bind.SchemaOutputResolver;
 
 /**
  * 抽象方法的使用
