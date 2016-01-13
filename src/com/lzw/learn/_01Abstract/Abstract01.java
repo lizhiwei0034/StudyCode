@@ -1,4 +1,4 @@
-package com.lzw.learn.Abstract;
+package com.lzw.learn._01Abstract;
 //（defined a Abstract class）定义一个抽象类
 abstract class person{
 	//property-定义个属性
