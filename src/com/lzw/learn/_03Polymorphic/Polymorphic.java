@@ -1,4 +1,4 @@
-package com.lzw.learn.Polymorphic;
+package com.lzw.learn._03Polymorphic;
 
 //定义一个类A
 class AA {

@@ -1,4 +1,4 @@
-package com.lzw.learn.Polymorphic;
+package com.lzw.learn._03Polymorphic;
 //∏∏¿‡A1
 class A1{
 	public void tell1(){

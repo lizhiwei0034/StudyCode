@@ -1,4 +1,4 @@
-package com.lzw.learn.Generic;
+package com.lzw.learn._04Generic;
 
 class GenericVoid {
 	// 定义一个泛型方法

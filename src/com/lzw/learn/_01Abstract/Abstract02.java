@@ -1,4 +1,4 @@
-package com.lzw.learn.Abstract;
+package com.lzw.learn._01Abstract;
 /**
  * 接口的多实现
  * @author 志伟

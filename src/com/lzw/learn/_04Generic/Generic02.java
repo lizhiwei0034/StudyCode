@@ -1,4 +1,4 @@
-package com.lzw.learn.Generic;
+package com.lzw.learn._04Generic;
 
 class Info<T> {
 	private T key;
@@ -28,7 +28,7 @@ public class Generic02 {
 	}
 
 	/**
-	 * 通配符的使用 即 指定参数为Info类 但是不能确定具体的类型 可以用？ 代替即： Info<?>
+	 * 通配符的使用 �? 指定参数为Info�? 但是不能确定具体的类�? 可以用？ 代替即： Info<?>
 	 * 
 	 * @param i
 	 */

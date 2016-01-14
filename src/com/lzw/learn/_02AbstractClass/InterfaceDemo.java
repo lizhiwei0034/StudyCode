@@ -1,4 +1,4 @@
-package com.lzw.learn.AbstractClass;
+package com.lzw.learn._02AbstractClass;
 
 //定义一个接口（其实是相当于一个操作规范，里面有一定的抽象方法）
 interface USB {

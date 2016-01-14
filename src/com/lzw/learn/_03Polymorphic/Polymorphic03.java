@@ -1,4 +1,4 @@
-package com.lzw.learn.Polymorphic;
+package com.lzw.learn._03Polymorphic;
 /**
  * instanceof关键字的使用（判断某一个对象是否被实例化）
  * @author mysti_000
