@@ -20,7 +20,6 @@ public class Set_TreeSet {
 		t.add("A");
 		System.out.println(t);
 		// 由于不允许 存在重复元素 打印结果为：[A, B, C, D, E, F]
-
 	}
 
 }
