@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 public class _01ReadByteStream {
 /**
- * 数据流读取文件
+ * 字节流读取文件
  * @param args
  */
 	public static void main(String[] args) {
