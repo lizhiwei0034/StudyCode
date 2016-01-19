@@ -1,14 +1,14 @@
 package com.lzw.learn._07Stream;
 
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
+ 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-public class FileReaderWriter {
+public class _07FileReaderWriter {
 
 	public static void main(String[] args) {
 		try {
