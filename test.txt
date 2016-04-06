@@ -30,6 +30,7 @@ public class Map_Demo01 {
 		while(iter.hasNext()){
 			String strv=iter.next();
 			System.out.println(strv);
+			//123
 		}
 
 	}
